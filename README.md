@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Revesh Chauhan</h1>
-<h3 align="center">"Recent BCA Graduate | Skilled in Programming, Data Analysis & Problem Solving"</h3>
+<h3 align="center">"Recent BCA Graduate | Web Developer | Front-End Designer |Tech Enthusiast & Problem Solving"</h3>
 
 - 📫 How to reach me **reveshchauhan@gmail.com**
 
